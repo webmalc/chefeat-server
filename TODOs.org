@@ -1,3 +1,4 @@
 * Issues
+** TODO config django base
 ** TODO install and config restframework
 ** TODO install and config restauth
